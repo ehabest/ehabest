@@ -1,32 +1,33 @@
+<!-- Header SVG Banner -->
+<p align="center">
+  <img src="./header.svg" alt="Ihab Elkady Banner" width="100%" />
+</p>
+
+<!-- Animated Typing Subtitle -->
 <div align="center">
-
-  <!-- Animated Header Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ihab+Elkady+%F0%9F%91%8B;Senior+Web+Designer+%26+PHP+Developer;14%2B+Years+of+Crafting+High-Performance+Web+Apps;Based+in+Kuwait+%F0%9F%87%B0%F0%9F%87%B7" alt="Typing Header" />
-
-  <p align="center">
-    <b>Computer Engineer | Senior Web Designer | Core PHP & Frontend Architect</b>
-  </p>
-
-  <!-- Animated Stats Badges -->
-  <p align="center">
-    <a href="https://github.com/ehabest">
-      <img src="https://komarev.com/ghpvc/?username=ehabest&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-    </a>
-    <a href="https://github.com/ehabest?tab=followers">
-      <img src="https://img.shields.io/github/followers/ehabest?style=for-the-badge&logo=github&color=171e27&label=Followers" alt="Followers" />
-    </a>
-  </p>
-
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=ENG.+Ihab+Elkady;Senior+Web+Designer+%26+PHP+Developer;Over+14%2B+Years+of+Experience;Based+in+Kuwait+%F0%9F%87%B0%F0%9F%87%B7" alt="Typing Banner" />
+  </a>
 </div>
+
+<br />
+
+<!-- Animated Badges & Visitors -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ehabest&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ehabest?style=for-the-badge&logo=github&color=171e27&label=FOLLOWERS" alt="Followers" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
+<div align="center">
+  
 ```developer-profile
-Ihab Elkady (ENG. Ihab Elkady)
-├── Degree       : B.Sc. Computer Engineering (AASTMT)
+ENG. IHAB ELKADY
+├── Degree       : B.Sc. Computer Engineering (AASTMT - Alexandria, Egypt)
 ├── Experience   : 14+ Years (Kuwait & Egypt)
 ├── Current Role : Senior Web Designer at Alanba Newspaper
-├── Speciality   : Custom PHP Platforms, UI/UX, Performance & SEO Optimization
-└── Hobbies      : Continuous Learning, AI, Photo Manipulation, Basketball
+├── Military     : Former Lieutenant (Egyptian Air Defense R&D Center)
+└── Key Expertise: Core PHP, MySQL, Web Optimization & UI/UX Design
