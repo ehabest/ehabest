@@ -1,7 +1,7 @@
 <!-- Header SVG Banner -->
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=ENG.%20IHAB%20ELKADY&fontSize=32&fontColor=3B82F6&animation=fadeIn&fontAlignY=38&desc=Senior%20Web%20Designer%20&%20Core%20PHP%20Architect&descSize=14&descColor=93C5FD" width="100%" />
   <img src="images/header.svg" alt="Ihab Elkady Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=ENG.%20IHAB%20ELKADY&fontSize=32&fontColor=3B82F6&animation=fadeIn&fontAlignY=38&desc=Senior%20Web%20Designer%20&%20Core%20PHP%20Architect&descSize=14&descColor=93C5FD" width="100%" />
 </p>
 
 
@@ -27,9 +27,8 @@
 <!-- EXECUTIVE PROFILE HUD / TERMINAL CARD      -->
 <!-- ========================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=5000&color=60A5FA&center=false&vCenter=true&width=750&lines=⚡+Loading+Core+Profile...;🎓+Degree:+B.Sc.+Computer+Engineering+(AAST+-+Grade:+A+);💼+Experience:+14%2B+Years+Architecting+Web+Platforms;📰+Role:+Senior+Web+Designer+@+Alanba+Newspaper+(Kuwait);🎖️+Military:+Former+First+Lieutenant+(Egyptian+Air+Defense);" alt="HUD Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=60A5FA&center=false&vCenter=true&width=750&lines=%E2%9A%A1+Loading+Core+Profile...;%F0%9F%8E%93+Degree%3A+B.Sc.+Computer+Engineering+(AAST+-+Grade%3A+A%2B);%F0%9F%92%BC+Experience%3A+14%2B+Years+Architecting+Web+Platforms;%F0%9F%93%B0+Role%3A+Senior+Web+Designer+%40+Alanba+Newspaper+(Kuwait);%F0%9F%8C%9F+Military%3A+Former+First+Lieutenant+(Egyptian+Air+Defense)" alt="HUD Terminal" />
 </p>
-
 ---
 
 <!-- ========================================== -->
