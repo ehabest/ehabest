@@ -86,33 +86,35 @@
 
     /* Step Card Text Formatting */
     .step-title {
-      font-family: 'Segoe UI', system-ui, sans-serif;
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
       font-weight: 800;
       fill: #ffffff;
       font-size: 18px;
     }
 
     .step-desc {
-      font-family: 'Fira Code', monospace;
+      font-family: 'Fira Code', monospace, sans-serif;
       font-weight: 600;
       fill: #38bdf8;
       font-size: 13px;
     }
 
     .num-txt {
-      font-family: 'Fira Code', monospace;
+      font-family: 'Fira Code', monospace, sans-serif;
       font-weight: 900;
       fill: #38bdf8;
       font-size: 15px;
     }
 
     .node-pulse {
+      transform-box: fill-box;
+      transform-origin: center;
       animation: pulseNode 1.5s ease-in-out infinite alternate;
     }
 
     @keyframes pulseNode {
-      0% { r: 18px; opacity: 0.8; }
-      100% { r: 22px; opacity: 1; filter: drop-shadow(0 0 10px #38bdf8); }
+      0% { transform: scale(0.9); opacity: 0.8; }
+      100% { transform: scale(1.1); opacity: 1; filter: drop-shadow(0 0 8px #38bdf8); }
     }
   </style>
 
