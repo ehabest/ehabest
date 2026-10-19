@@ -1,34 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 720" width="100%" height="100%">
   <defs>
-    <!-- Dark Background Gradient -->
-    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b1329" />
-      <stop offset="50%" stop-color="#101b3b" />
-      <stop offset="100%" stop-color="#070c1b" />
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060c1c" />
+      <stop offset="50%" stop-color="#0b1736" />
+      <stop offset="100%" stop-color="#040814" />
     </linearGradient>
 
-    <!-- Glowing Blue Card Gradient -->
-    <linearGradient id="card-grad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.9" />
-      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9" />
+    <!-- Glowing Card Background -->
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.95" />
     </linearGradient>
 
-    <!-- Laser Line Gradient -->
-    <linearGradient id="laser-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.2" />
-      <stop offset="50%" stop-color="#60a5fa" stop-opacity="1" />
-      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.2" />
+    <!-- PHP Special Highlight Card -->
+    <linearGradient id="php-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b0764" />
+      <stop offset="100%" stop-color="#0f172a" />
     </linearGradient>
 
-    <!-- Neon Glow Filter -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-
-    <filter id="strong-glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="8" result="blur1" />
-      <feGaussianBlur stdDeviation="3" result="blur2" />
+    <!-- Neon Glow Filter for the Light Beam -->
+    <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur1" />
+      <feGaussianBlur stdDeviation="2" result="blur2" />
       <feMerge>
         <feMergeNode in="blur1" />
         <feMergeNode in="blur2" />
@@ -38,153 +32,198 @@
   </defs>
 
   <style>
-    .step-card {
-      transition: all 0.3s ease;
-      cursor: pointer;
-    }
-    .step-card:hover {
-      filter: url(#strong-glow);
-    }
-    .laser-track {
+    /* Dotted Base Track */
+    .dotted-path {
       stroke: #1e3a8a;
-      stroke-width: 4;
-      stroke-dasharray: 8 6;
+      stroke-width: 5;
+      stroke-dasharray: 8 8;
+      stroke-linecap: round;
+      opacity: 0.6;
     }
-    .laser-pulse {
-      stroke: #60a5fa;
-      stroke-width: 4;
-      stroke-dasharray: 100 400;
-      animation: movePulse 4s linear infinite;
-      filter: url(#glow);
+
+    /* Glowing Light Pulse Moving Along Lines */
+    .glowing-light-right {
+      stroke: #38bdf8;
+      stroke-width: 6;
+      stroke-dasharray: 40 180;
+      stroke-linecap: round;
+      animation: lightTravelRight 2s linear infinite;
+      filter: url(#neon-glow);
     }
-    .node-dot {
-      animation: pulseDot 2s ease-in-out infinite alternate;
+
+    .glowing-light-left {
+      stroke: #38bdf8;
+      stroke-width: 6;
+      stroke-dasharray: 40 180;
+      stroke-linecap: round;
+      animation: lightTravelLeft 2s linear infinite;
+      filter: url(#neon-glow);
     }
-    @keyframes movePulse {
-      0% { stroke-dashoffset: 500; }
-      100% { stroke-dashoffset: -500; }
+
+    .glowing-light-down {
+      stroke: #a855f7;
+      stroke-width: 6;
+      stroke-dasharray: 40 180;
+      stroke-linecap: round;
+      animation: lightTravelDown 2s linear infinite;
+      filter: url(#neon-glow);
     }
-    @keyframes pulseDot {
-      0% { transform: scale(0.9); opacity: 0.7; }
-      100% { transform: scale(1.15); opacity: 1; filter: drop-shadow(0 0 6px #60a5fa); }
+
+    @keyframes lightTravelRight {
+      0% { stroke-dashoffset: 220; }
+      100% { stroke-dashoffset: -220; }
     }
-    .step-text {
-      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-      font-weight: 700;
+
+    @keyframes lightTravelLeft {
+      0% { stroke-dashoffset: -220; }
+      100% { stroke-dashoffset: 220; }
+    }
+
+    @keyframes lightTravelDown {
+      0% { stroke-dashoffset: 220; }
+      100% { stroke-dashoffset: -220; }
+    }
+
+    /* Step Card Text Formatting */
+    .step-title {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      font-weight: 800;
       fill: #ffffff;
+      font-size: 18px;
+    }
+
+    .step-desc {
+      font-family: 'Fira Code', monospace;
+      font-weight: 600;
+      fill: #38bdf8;
       font-size: 13px;
     }
-    .sub-text {
-      font-family: 'Fira Code', monospace, sans-serif;
-      font-weight: 500;
-      fill: #93c5fd;
-      font-size: 11px;
-    }
-    .num-badge {
+
+    .num-txt {
       font-family: 'Fira Code', monospace;
-      font-weight: 800;
-      fill: #3b82f6;
-      font-size: 11px;
+      font-weight: 900;
+      fill: #38bdf8;
+      font-size: 15px;
+    }
+
+    .node-pulse {
+      animation: pulseNode 1.5s ease-in-out infinite alternate;
+    }
+
+    @keyframes pulseNode {
+      0% { r: 18px; opacity: 0.8; }
+      100% { r: 22px; opacity: 1; filter: drop-shadow(0 0 10px #38bdf8); }
     }
   </style>
 
-  <!-- Background -->
-  <rect width="1200" height="240" rx="16" fill="url(#bg-gradient)" stroke="#1e293b" stroke-width="2" />
+  <!-- Canvas Background -->
+  <rect width="950" height="720" rx="20" fill="url(#bg-grad)" stroke="#1e293b" stroke-width="3" />
 
-  <!-- Connecting Pipeline Tracks -->
-  <line x1="75" y1="120" x2="1125" y2="120" class="laser-track" />
-  <line x1="75" y1="120" x2="1125" y2="120" class="laser-pulse" />
+  <!-- ========================================== -->
+  <!-- CONNECTING DOTTED LINES + MOVING LIGHTS    -->
+  <!-- ========================================== -->
 
-  <!-- STEP 1: Photo Design -->
-  <g class="step-card" transform="translate(30, 45)">
-    <rect width="115" height="150" rx="12" fill="url(#card-grad)" stroke="#3b82f6" stroke-width="1.5" />
-    <circle cx="57.5" cy="35" r="20" fill="#1e293b" stroke="#60a5fa" stroke-width="1.5" />
-    <text x="57.5" y="40" text-anchor="middle" class="num-badge">01</text>
-    <!-- Photo Icon -->
-    <path d="M47 68 h21 a2 2 0 0 1 2 2 v14 a2 2 0 0 1 -2 2 h-21 a2 2 0 0 1 -2 -2 v-14 a2 2 0 0 1 2 -2 z M52 74 a2.5 2.5 0 1 0 0 -5 a2.5 2.5 0 1 0 0 5 z" fill="none" stroke="#60a5fa" stroke-width="1.8" />
-    <text x="57.5" y="108" text-anchor="middle" class="step-text">Photo Design</text>
-    <text x="57.5" y="125" text-anchor="middle" class="sub-text">Photoshop</text>
+  <!-- Row 1: Step 01 -> Step 02 -> Step 03 -->
+  <line x1="265" y1="125" x2="365" y2="125" class="dotted-path" />
+  <line x1="265" y1="125" x2="365" y2="125" class="glowing-light-right" />
+
+  <line x1="585" y1="125" x2="685" y2="125" class="dotted-path" />
+  <line x1="585" y1="125" x2="685" y2="125" class="glowing-light-right" />
+
+  <!-- Downward Line: Step 03 -> Step 04 -->
+  <line x1="800" y1="205" x2="800" y2="305" class="dotted-path" />
+  <line x1="800" y1="205" x2="800" y2="305" class="glowing-light-down" />
+
+  <!-- Row 2: Step 04 <- Step 05 <- Step 06 -->
+  <line x1="685" y1="385" x2="585" y2="385" class="dotted-path" />
+  <line x1="685" y1="385" x2="585" y2="385" class="glowing-light-left" />
+
+  <line x1="365" y1="385" x2="265" y2="385" class="dotted-path" />
+  <line x1="365" y1="385" x2="265" y2="385" class="glowing-light-left" />
+
+  <!-- Downward Line: Step 06 -> Step 07 -->
+  <line x1="150" y1="465" x2="150" y2="565" class="dotted-path" />
+  <line x1="150" y1="465" x2="150" y2="565" class="glowing-light-down" />
+
+  <!-- Row 3: Step 07 -> Step 08 -->
+  <line x1="265" y1="632" x2="365" y2="632" class="dotted-path" />
+  <line x1="265" y1="632" x2="365" y2="632" class="glowing-light-right" />
+
+
+  <!-- ========================================== -->
+  <!-- 3x3 STEP CARDS GRID                         -->
+  <!-- ========================================== -->
+
+  <!-- STEP 01: Photo & Graphics -->
+  <g transform="translate(45, 45)">
+    <rect width="220" height="160" rx="16" fill="url(#card-bg)" stroke="#38bdf8" stroke-width="2" />
+    <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2" class="node-pulse" />
+    <text x="110" y="50" text-anchor="middle" class="num-txt">01</text>
+    <text x="110" y="105" text-anchor="middle" class="step-title">Photo & Graphics</text>
+    <text x="110" y="130" text-anchor="middle" class="step-desc">Photoshop / Banners</text>
   </g>
 
-  <!-- STEP 2: Web Design -->
-  <g class="step-card" transform="translate(175, 45)">
-    <rect width="115" height="150" rx="12" fill="url(#card-grad)" stroke="#3b82f6" stroke-width="1.5" />
-    <circle cx="57.5" cy="35" r="20" fill="#1e293b" stroke="#60a5fa" stroke-width="1.5" />
-    <text x="57.5" y="40" text-anchor="middle" class="num-badge">02</text>
-    <!-- Web Design Icon -->
-    <rect x="44" y="66" width="27" height="18" rx="2" fill="none" stroke="#60a5fa" stroke-width="1.8" />
-    <line x1="44" y1="72" x2="71" y2="72" stroke="#60a5fa" stroke-width="1.5" />
-    <text x="57.5" y="108" text-anchor="middle" class="step-text">Web Design</text>
-    <text x="57.5" y="125" text-anchor="middle" class="sub-text">UI/UX Layout</text>
+  <!-- STEP 02: Web Design & UI/UX -->
+  <g transform="translate(365, 45)">
+    <rect width="220" height="160" rx="16" fill="url(#card-bg)" stroke="#38bdf8" stroke-width="2" />
+    <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2" class="node-pulse" />
+    <text x="110" y="50" text-anchor="middle" class="num-txt">02</text>
+    <text x="110" y="105" text-anchor="middle" class="step-title">Web Design</text>
+    <text x="110" y="130" text-anchor="middle" class="step-desc">UI / UX Layouts</text>
   </g>
 
-  <!-- STEP 3: Responsive Design -->
-  <g class="step-card" transform="translate(320, 45)">
-    <rect width="115" height="150" rx="12" fill="url(#card-grad)" stroke="#3b82f6" stroke-width="1.5" />
-    <circle cx="57.5" cy="35" r="20" fill="#1e293b" stroke="#60a5fa" stroke-width="1.5" />
-    <text x="57.5" y="40" text-anchor="middle" class="num-badge">03</text>
-    <!-- Mobile/Responsive Icon -->
-    <rect x="47" y="65" width="12" height="20" rx="2" fill="none" stroke="#60a5fa" stroke-width="1.8" />
-    <rect x="62" y="70" width="8" height="15" rx="1" fill="none" stroke="#93c5fd" stroke-width="1.5" />
-    <text x="57.5" y="108" text-anchor="middle" class="step-text">Responsive</text>
-    <text x="57.5" y="125" text-anchor="middle" class="sub-text">HTML/CSS/JS</text>
+  <!-- STEP 03: Responsive Frontend -->
+  <g transform="translate(685, 45)">
+    <rect width="220" height="160" rx="16" fill="url(#card-bg)" stroke="#38bdf8" stroke-width="2" />
+    <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2" class="node-pulse" />
+    <text x="110" y="50" text-anchor="middle" class="num-txt">03</text>
+    <text x="110" y="105" text-anchor="middle" class="step-title">Responsive UI</text>
+    <text x="110" y="130" text-anchor="middle" class="step-desc">HTML5 / CSS3 / JS</text>
   </g>
 
-  <!-- STEP 4: Core PHP -->
-  <g class="step-card" transform="translate(465, 45)">
-    <rect width="125" height="150" rx="12" fill="url(#card-grad)" stroke="#a855f7" stroke-width="2" filter="url(#glow)" />
-    <circle cx="62.5" cy="35" r="20" fill="#2e1065" stroke="#c084fc" stroke-width="2" />
-    <text x="62.5" y="40" text-anchor="middle" class="num-badge" fill="#c084fc">04</text>
-    <!-- PHP Lightning Icon -->
-    <path d="M64 63 l-8 12 h7 l-3 11 l11 -13 h-7 z" fill="#c084fc" stroke="#e9d5ff" stroke-width="0.8" />
-    <text x="62.5" y="108" text-anchor="middle" class="step-text" fill="#f3e8ff">Core PHP</text>
-    <text x="62.5" y="125" text-anchor="middle" class="sub-text" fill="#c084fc">Engine Dev</text>
+  <!-- STEP 04: Core PHP Engine -->
+  <g transform="translate(685, 305)">
+    <rect width="220" height="160" rx="16" fill="url(#php-bg)" stroke="#a855f7" stroke-width="2.5" filter="url(#neon-glow)" />
+    <circle cx="110" cy="45" r="20" fill="#3b0764" stroke="#c084fc" stroke-width="2" class="node-pulse" />
+    <text x="110" y="50" text-anchor="middle" class="num-txt" fill="#c084fc">04</text>
+    <text x="110" y="105" text-anchor="middle" class="step-title" fill="#f3e8ff">Core PHP Engine</text>
+    <text x="110" y="130" text-anchor="middle" class="step-desc" fill="#c084fc">Backend Architecture</text>
   </g>
 
-  <!-- STEP 5: MySQL -->
-  <g class="step-card" transform="translate(610, 45)">
-    <rect width="115" height="150" rx="12" fill="url(#card-grad)" stroke="#3b82f6" stroke-width="1.5" />
-    <circle cx="57.5" cy="35" r="20" fill="#1e293b" stroke="#60a5fa" stroke-width="1.5" />
-    <text x="57.5" y="40" text-anchor="middle" class="num-badge">05</text>
-    <!-- DB Icon -->
-    <ellipse cx="57.5" cy="67" rx="12" ry="4" fill="none" stroke="#60a5fa" stroke-width="1.5" />
-    <path d="M45.5 67 v12 c0 2.2 5.4 4 12 4 s12 -1.8 12 -4 v-12" fill="none" stroke="#60a5fa" stroke-width="1.5" />
-    <text x="57.5" y="108" text-anchor="middle" class="step-text">MySQL DB</text>
-    <text x="57.5" y="125" text-anchor="middle" class="sub-text">Architecture</text>
+  <!-- STEP 05: MySQL Database -->
+  <g transform="translate(365, 305)">
+    <rect width="220" height="160" rx="16" fill="url(#card-bg)" stroke="#38bdf8" stroke-width="2" />
+    <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2" class="node-pulse" />
+    <text x="110" y="50" text-anchor="middle" class="num-txt">05</text>
+    <text x="110" y="105" text-anchor="middle" class="step-title">MySQL Database</text>
+    <text x="110" y="130" text-anchor="middle" class="step-desc">Schema & Query Tuning</text>
   </g>
 
-  <!-- STEP 6: Web Hosting -->
-  <g class="step-card" transform="translate(755, 45)">
-    <rect width="115" height="150" rx="12" fill="url(#card-grad)" stroke="#3b82f6" stroke-width="1.5" />
-    <circle cx="57.5" cy="35" r="20" fill="#1e293b" stroke="#60a5fa" stroke-width="1.5" />
-    <text x="57.5" y="40" text-anchor="middle" class="num-badge">06</text>
-    <!-- Server Cloud Icon -->
-    <path d="M46 78 a6 6 0 0 1 2 -11.6 a9 9 0 0 1 17 -2 a6 6 0 0 1 3 11.6 z" fill="none" stroke="#60a5fa" stroke-width="1.6" />
-    <text x="57.5" y="108" text-anchor="middle" class="step-text">Web Hosting</text>
-    <text x="57.5" y="125" text-anchor="middle" class="sub-text">Server Setup</text>
+  <!-- STEP 06: Web Hosting -->
+  <g transform="translate(45, 305)">
+    <rect width="220" height="160" rx="16" fill="url(#card-bg)" stroke="#38bdf8" stroke-width="2" />
+    <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2" class="node-pulse" />
+    <text x="110" y="50" text-anchor="middle" class="num-txt">06</text>
+    <text x="110" y="105" text-anchor="middle" class="step-title">Web Hosting</text>
+    <text x="110" y="130" text-anchor="middle" class="step-desc">Cloud & Server Deploy</text>
   </g>
 
-  <!-- STEP 7: SEO -->
-  <g class="step-card" transform="translate(900, 45)">
-    <rect width="115" height="150" rx="12" fill="url(#card-grad)" stroke="#3b82f6" stroke-width="1.5" />
-    <circle cx="57.5" cy="35" r="20" fill="#1e293b" stroke="#60a5fa" stroke-width="1.5" />
-    <text x="57.5" y="40" text-anchor="middle" class="num-badge">07</text>
-    <!-- SEO Search/Growth Icon -->
-    <path d="M46 78 l6 -8 l5 4 l8 -10" fill="none" stroke="#60a5fa" stroke-width="1.8" stroke-linecap="round" />
-    <text x="57.5" y="108" text-anchor="middle" class="step-text">SEO Engine</text>
-    <text x="57.5" y="125" text-anchor="middle" class="sub-text">Meta Tags</text>
+  <!-- STEP 07: SEO Optimization -->
+  <g transform="translate(45, 565)">
+    <rect width="220" height="135" rx="16" fill="url(#card-bg)" stroke="#38bdf8" stroke-width="2" />
+    <circle cx="110" cy="35" r="18" fill="#0f172a" stroke="#38bdf8" stroke-width="2" class="node-pulse" />
+    <text x="110" y="40" text-anchor="middle" class="num-txt">07</text>
+    <text x="110" y="85" text-anchor="middle" class="step-title">SEO Engine</text>
+    <text x="110" y="108" text-anchor="middle" class="step-desc">Meta Tags & Speed</text>
   </g>
 
-  <!-- STEP 8: Analytics -->
-  <g class="step-card" transform="translate(1045, 45)">
-    <rect width="120" height="150" rx="12" fill="url(#card-grad)" stroke="#10b981" stroke-width="1.8" filter="url(#glow)" />
-    <circle cx="60" cy="35" r="20" fill="#064e3b" stroke="#34d399" stroke-width="1.8" />
-    <text x="60" y="40" text-anchor="middle" class="num-badge" fill="#34d399">08</text>
-    <!-- Chart Icon -->
-    <rect x="47" y="72" width="5" height="10" fill="#34d399" />
-    <rect x="55" y="66" width="5" height="16" fill="#34d399" />
-    <rect x="63" y="62" width="5" height="20" fill="#34d399" />
-    <text x="60" y="108" text-anchor="middle" class="step-text" fill="#ecfdf5">Analytics</text>
-    <text x="60" y="125" text-anchor="middle" class="sub-text" fill="#34d399">Google Traffic</text>
+  <!-- STEP 08: Google Analytics -->
+  <g transform="translate(365, 565)">
+    <rect width="220" height="135" rx="16" fill="url(#card-bg)" stroke="#34d399" stroke-width="2.5" filter="url(#neon-glow)" />
+    <circle cx="110" cy="35" r="18" fill="#064e3b" stroke="#34d399" stroke-width="2" class="node-pulse" />
+    <text x="110" y="40" text-anchor="middle" class="num-txt" fill="#34d399">08</text>
+    <text x="110" y="85" text-anchor="middle" class="step-title" fill="#ecfdf5">Google Analytics</text>
+    <text x="110" y="108" text-anchor="middle" class="step-desc" fill="#34d399">Traffic Tracking</text>
   </g>
+
 </svg>
