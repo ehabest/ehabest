@@ -79,7 +79,7 @@ I build and improve web experiences where **engineering, performance, and visual
 
 *For professional work, I share public-facing links and summaries; confidential source code and internal systems are not published here.*
 
----
+
 
 ## GitHub at a glance
 
