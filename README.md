@@ -27,7 +27,7 @@
 <h3 align="center">⚡ Engineering & Design Workflow Pipeline</h3>
 
 <p align="center">
-  <img src="images/workflow.svg" alt="Ihab Elkady 8-Step Workflow Pipeline" width="100%" />
+  <img src="images/workflow.svg?v=2" alt="Ihab Elkady 8-Step Workflow Pipeline" width="100%" />
 </p>
 
 ---
