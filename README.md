@@ -40,12 +40,15 @@ Senior Web Designer and PHP Developer with over 14 years of experience crafting 
 
 ---
 
-### 📊 GitHub Stats & Top Languages
+### 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehabest&show_icons=true&theme=radial&count_private=true" alt="Ihab's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehabest&layout=compact&theme=radial" alt="Top Languages" />
+  <a href="https://github.com/ehabest?tab=followers" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/followers/ehabest?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers of ehabest" />
+  </a>
+  <a href="https://github.com/ehabest?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Repositories-2-102C57?style=for-the-badge&logo=github&logoColor=white" alt="Number of public repositories" />
+  </a>
 </p>
 
 ---
