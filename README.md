@@ -1,150 +1,111 @@
-<!-- Header SVG Banner -->
 <div align="center">
-  <img src="images/header.svg" alt="Ihab Elkady Header" width="100%" />
- <a href="https://ihab.habyby.net">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=B.Sc.+Computer+Engineering+(AAST);14%2B+Years+Experience+in+Kuwait+%26+Egypt;Specialized+in+Core+PHP+%26+High-Performance+Web+Apps;UI%2FUX+Architect+%7C+Alanba+Newspaper+Optimizer" alt="Typing Animation" />
+  <img src="images/header2.svg" alt="Eng. Ihab Elkady — Senior Web Designer and Core PHP Developer" width="100%" />
+  <br />
+  <a href="https://ihab.habyby.net/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Computer+%26+Software+Engineer;14%2B+Years+in+Web+Design+%26+Development;Core+PHP+%7C+MySQL+%7C+JavaScript;UI%2FUX+%7C+Performance+%7C+SEO" alt="Animated professional headline" />
   </a>
-
 </div>
 
-Senior Web Designer and PHP Developer with over 14 years of experience building high-performance web applications, Core PHP platforms, custom CMS architectures, and responsive UI/UX designs. Egyptian, living and working in Kuwait.
+<p align="center">
+  <a href="https://ihab.habyby.net/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-0B84F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/ehabest"><img src="https://img.shields.io/badge/GITHUB-ehabest-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ehabest"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-- 🔭 **Now:** publishing my projects on GitHub (new here, follow along!)
-- 💬 **Ask me about:** Core PHP and MySQL on shared hosting, page speed, SEO and meta tags, responsive front-end
-- 📫 **Reach me:** [ihab@habyby.net](mailto:ihab@habyby.net)
+# Eng. Ihab Elkady
+
+**Senior Web Designer · Core PHP Developer · Computer & Software Engineer**
+
+I build and improve web experiences where **engineering, performance, and visual design** work together. I bring 14+ years of experience across web development, responsive UI/UX, custom PHP platforms, content-driven websites, and front-end optimization, including long-term work with **ALANBA Newspaper in Kuwait**.
+
+- **Backend:** Core PHP, MySQL, REST APIs, JSON, AJAX
+- **Frontend:** JavaScript, jQuery, HTML5, CSS3, Bootstrap, responsive design
+- **Design:** UI/UX, web and graphic design, cross-browser implementation
+- **Platforms & operations:** ASP.NET, WordPress, AWS, hosting, SEO, analytics
+- **Education:** B.Sc. in Computer Engineering — AAST, Egypt
+- **Based in:** Kuwait
+
+> I care about maintainable code, clear interfaces, reliable delivery, and measurable improvements—not just making a page look good.
 
 ---
 
-### 🚀 What I Do
+## Engineering & design workflow
 
-- 👨‍💻 **Core Tech**: PHP, MySQL, JavaScript, ASP.NET, HTML5, CSS3, AJAX, REST APIs
-- 🎨 **UI/UX Design**: Responsive Web Design, Photoshop, Cross-Browser UI Optimization
-- 📱 **Mobile & Integrations**: Web Apps (iOS/Android Interfaces), Cross-Platform Ad Scripts, SEO & Meta Tag Optimization
-- ☁️ **Cloud & Servers**: AWS, Azure Server Monitoring, WAMP, Google Analytics Integration
+<p align="center"><img src="images/workflow2.svg" alt="Eight-stage engineering workflow: plan, architect, design, develop, test, optimize, deploy, iterate" width="100%" /></p>
+
+## Technical toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Core%20PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Core PHP" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-UI-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-Responsive-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jQuery-AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery and AJAX" />
+  <img src="https://img.shields.io/badge/ASP.NET-Web-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/SEO-%26%20Analytics-0F766E?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="SEO and analytics" />
+</p>
 
 ---
 
-<!-- Real-time Profile Views & Followers Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehabest&label=PROFILE+VIEWS&color=3B82F6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ehabest?style=for-the-badge&logo=github&color=1e293b&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/badge/LOCATION-KUWAIT_%F0%9F%87%B0%F0%9F%87%B7-0ea5e9?style=for-the-badge" alt="Location" />
-</p>
+## Selected work
 
-</br>
-
-<!-- ========================================== -->
-<!-- INTERACTIVE ANIMATED WORKFLOW PIPELINE     -->
-<!-- ========================================== -->
-<h3 align="center">⚡ Engineering & Design Workflow Pipeline</h3>
-
-<p align="center">
-  <img src="images/workflow.svg?v=2" alt="Ihab Elkady 8-Step Workflow Pipeline" width="100%" />
-</p>
-
-
-
-<!-- ========================================== -->
-<!-- INTERACTIVE SKILL BADGES GRID              -->
-<!-- ========================================== -->
-<h3 align="center">🛠️ Technical Arsenal & Ecosystem</h3>
-
-<p align="center">
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <br />
-  <!-- Frontend & UI -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <br />
-  <!-- Design & Tools -->
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF5722?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-</p>
-
-
-
-<!-- ========================================== -->
-<!-- FEATURED PLATFORMS SHOWCASE CARDS          -->
-<!-- ========================================== -->
-<h3 align="center">🚀 Featured Live Systems & Projects</h3>
-
-<table align="center" width="100%">
+<table>
   <tr>
-    <td width="33%" align="center" style="background: rgba(15, 23, 42, 0.6); border: 1px solid #1e293b; border-radius: 12px; padding: 20px;">
-      <h3>🌐 LHABYBY</h3>
-      <p>Custom PHP platform engineered for personal link aggregation and social profile management.</p>
-      <a href="https://l.habyby.net/ehabest" target="_blank"><img src="https://img.shields.io/badge/Launch_Platform-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Portfolio</h3>
+      <p>My professional portfolio featuring web design, development work, and selected case studies.</p>
+      <a href="https://ihab.habyby.net/">Explore portfolio →</a>
     </td>
-    <td width="33%" align="center" style="background: rgba(15, 23, 42, 0.6); border: 1px solid #1e293b; border-radius: 12px; padding: 20px;">
+    <td width="50%" valign="top">
+      <h3>🔗 LHABYBY</h3>
+      <p>A personal link hub for bringing social profiles and online destinations together.</p>
+      <a href="https://l.habyby.net/ehabest">Visit LHABYBY →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📱 HABYBY</h3>
-      <p>PHP media network and mobile app built to share posts, movie ratings, and community reviews.</p>
-      <a href="https://habyby.net" target="_blank"><img src="https://img.shields.io/badge/Explore_Network-0EA5E9?style=for-the-badge&logo=rss&logoColor=white" /></a>
+      <p>A web and media project focused on posts, movie ratings, and community reviews.</p>
+      <a href="https://habyby.net/">Explore HABYBY →</a>
     </td>
-    <td width="33%" align="center" style="background: rgba(15, 23, 42, 0.6); border: 1px solid #1e293b; border-radius: 12px; padding: 20px;">
-      <h3>📰 Alanba Redesign</h3>
-      <p>Front-end architecture and code re-engineering that slashed page load times by 25% in Kuwait.</p>
-      <a href="https://ihab.habyby.net" target="_blank"><img src="https://img.shields.io/badge/View_Case_Study-10B981?style=for-the-badge&logo=readcv&logoColor=white" /></a>
+    <td width="50%" valign="top">
+      <h3>📰 News publishing & front-end engineering</h3>
+      <p>Professional experience supporting a high-traffic newspaper platform, responsive interfaces, and front-end optimization.</p>
+      <a href="https://www.alanba.com.kw/">Visit ALANBA Newspaper →</a>
     </td>
   </tr>
 </table>
 
-
-
-<!-- ========================================== -->
-<!-- LIVE GITHUB STATS & METRICS                -->
-<!-- ========================================== -->
-<h3 align="center">📊 GitHub Activity & Metrics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehabest&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehabest&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css" alt="Top Languages" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehabest&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="98%" />
-</div>
+*For professional work, I share public-facing links and summaries; confidential source code and internal systems are not published here.*
 
 ---
 
+## GitHub at a glance
 
-
-<!-- ========================================== -->
-<!-- CONNECT WITH ME SECTION                    -->
-<!-- ========================================== -->
-<h3 align="center">📬 Connect & Collaborate</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehabest&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for ehabest" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehabest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages for ehabest" width="49%" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehabest&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for ehabest" width="80%" />
+</div>
 
 <p align="center">
-  <a href="https://ihab.habyby.net" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ihab.habyby.net-102C57?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ehabest" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ehabest-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://behance.net/ehabest" target="_blank"><img src="https://img.shields.io/badge/Behance-ehabest-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="mailto:ihab@habyby.net"><img src="https://img.shields.io/badge/Email-ihab@habyby.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ehabest&label=PROFILE%20VIEWS&color=0B84F3&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ehabest?label=FOLLOWERS&style=flat-square&color=111827" alt="GitHub followers" />
 </p>
 
-<!-- Footer SVG Banner -->
-<p align="center">
-  <img src="images/footer.svg" alt="Ihab Elkady Footer" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=ENG.%20IHAB%20ELKADY&fontSize=32&fontColor=3B82F6&animation=fadeIn&fontAlignY=38&desc=Sr.%20Web%20%26amp%3B%20Graphic%20Designer%20%7C%20PHP%20%26amp%3B%20Frontend%20Developer%20%7C%20Computer%20%26amp%3B%20Software%20Engineer&descSize=13&descColor=93C5FD" width="100%" />
-</p>
+---
 
+## Let's connect
 
-
-
-
-
-
-
-
-
+<div align="center">
+  <img src="images/connect2.svg" alt="Connect with Ihab Elkady" width="100%" />
+  <br />
+  <a href="https://ihab.habyby.net/"><img src="https://img.shields.io/badge/Portfolio-0B84F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ehabest"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/ehabest"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="mailto:ihab@habyby.net"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
