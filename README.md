@@ -4,6 +4,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=ENG.%20IHAB%20ELKADY&fontSize=32&fontColor=3B82F6&animation=fadeIn&fontAlignY=38&desc=Sr.%20Web%20%26amp%3B%20Graphic%20Designer%20%7C%20PHP%20%26amp%3B%20Frontend%20Developer%20%7C%20Computer%20%26amp%3B%20Software%20Engineer&descSize=13&descColor=93C5FD" width="100%" />
 
 </p>
+
+Senior Web Designer and PHP Developer with over 14 years of experience building high-performance web applications, Core PHP platforms, custom CMS architectures, and responsive UI/UX designs. Egyptian, living and working in Kuwait.
+
+- 🔭 **Now:** publishing my projects on GitHub (new here, follow along!)
+- 💬 **Ask me about:** Core PHP and MySQL on shared hosting, page speed, SEO and meta tags, responsive front-end
+- 📫 **Reach me:** [ihab@habyby.net](mailto:ihab@habyby.net)
+
+---
+
+### 🚀 What I Do
+
+- 👨‍💻 **Core Tech**: PHP, MySQL, JavaScript, ASP.NET, HTML5, CSS3, AJAX, REST APIs
+- 🎨 **UI/UX Design**: Responsive Web Design, Photoshop, Cross-Browser UI Optimization
+- 📱 **Mobile & Integrations**: Web Apps (iOS/Android Interfaces), Cross-Platform Ad Scripts, SEO & Meta Tag Optimization
+- ☁️ **Cloud & Servers**: AWS, Azure Server Monitoring, WAMP, Google Analytics Integration
+
+---
+
 <div align="center">
   <a href="https://ihab.habyby.net">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=B.Sc.+Computer+Engineering+(AAST);14%2B+Years+Experience+in+Kuwait+%26+Egypt;Specialized+in+Core+PHP+%26+High-Performance+Web+Apps;UI%2FUX+Architect+%7C+Alanba+Newspaper+Optimizer" alt="Typing Animation" />
