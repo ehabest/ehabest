@@ -26,7 +26,6 @@ I build and improve web experiences where **engineering, performance, and visual
 
 > I care about maintainable code, clear interfaces, reliable delivery, and measurable improvements—not just making a page look good.
 
----
 
 ## Engineering & design workflow
 
