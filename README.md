@@ -152,6 +152,14 @@
 
 
 
+
+
+<!-- Header SVG Banner -->
+<p align="center">
+  <img src="images/header.svg" alt="Ihab Elkady Banner" width="100%" />
+</p>
+
+
 <div align="center">
 
 # Hi there, I'm Ihab Elkady 👋
@@ -224,6 +232,16 @@ Senior Web Designer and PHP Developer with over 14 years of experience building 
   <a href="https://behance.net/ehabest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Behance-ehabest-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="mailto:ihab@habyby.net"><img src="https://img.shields.io/badge/Email-ihab@habyby.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<!-- Footer SVG Banner -->
+<p align="center">
+  <img src="images/footer.svg" alt="Ihab Elkady Banner" width="100%" />
+</p>
+
+
+
+
+
 
 
 
