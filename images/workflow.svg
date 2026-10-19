@@ -1,25 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 720" width="100%" height="100%">
   <defs>
-    <!-- Background Gradient -->
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#060c1c" />
       <stop offset="50%" stop-color="#0b1736" />
       <stop offset="100%" stop-color="#040814" />
     </linearGradient>
 
-    <!-- Glowing Card Background -->
     <linearGradient id="card-bg" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#1e293b" stop-opacity="0.95" />
       <stop offset="100%" stop-color="#0f172a" stop-opacity="0.95" />
     </linearGradient>
 
-    <!-- PHP Special Highlight Card -->
     <linearGradient id="php-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#3b0764" />
       <stop offset="100%" stop-color="#0f172a" />
     </linearGradient>
 
-    <!-- Neon Glow Filter for the Light Beam -->
     <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="6" result="blur1" />
       <feGaussianBlur stdDeviation="2" result="blur2" />
@@ -32,7 +28,6 @@
   </defs>
 
   <style>
-    /* Dotted Base Track */
     .dotted-path {
       stroke: #1e3a8a;
       stroke-width: 5;
@@ -41,7 +36,6 @@
       opacity: 0.6;
     }
 
-    /* Glowing Light Pulse Moving Along Lines */
     .glowing-light-right {
       stroke: #38bdf8;
       stroke-width: 6;
@@ -84,7 +78,6 @@
       100% { stroke-dashoffset: -220; }
     }
 
-    /* Step Card Text Formatting */
     .step-title {
       font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
       font-weight: 800;
@@ -118,45 +111,31 @@
     }
   </style>
 
-  <!-- Canvas Background -->
   <rect width="950" height="720" rx="20" fill="url(#bg-grad)" stroke="#1e293b" stroke-width="3" />
 
-  <!-- ========================================== -->
-  <!-- CONNECTING DOTTED LINES + MOVING LIGHTS    -->
-  <!-- ========================================== -->
-
-  <!-- Row 1: Step 01 -> Step 02 -> Step 03 -->
+  <!-- Connecting Tracks -->
   <line x1="265" y1="125" x2="365" y2="125" class="dotted-path" />
   <line x1="265" y1="125" x2="365" y2="125" class="glowing-light-right" />
 
   <line x1="585" y1="125" x2="685" y2="125" class="dotted-path" />
   <line x1="585" y1="125" x2="685" y2="125" class="glowing-light-right" />
 
-  <!-- Downward Line: Step 03 -> Step 04 -->
   <line x1="800" y1="205" x2="800" y2="305" class="dotted-path" />
   <line x1="800" y1="205" x2="800" y2="305" class="glowing-light-down" />
 
-  <!-- Row 2: Step 04 <- Step 05 <- Step 06 -->
   <line x1="685" y1="385" x2="585" y2="385" class="dotted-path" />
   <line x1="685" y1="385" x2="585" y2="385" class="glowing-light-left" />
 
   <line x1="365" y1="385" x2="265" y2="385" class="dotted-path" />
   <line x1="365" y1="385" x2="265" y2="385" class="glowing-light-left" />
 
-  <!-- Downward Line: Step 06 -> Step 07 -->
   <line x1="150" y1="465" x2="150" y2="565" class="dotted-path" />
   <line x1="150" y1="465" x2="150" y2="565" class="glowing-light-down" />
 
-  <!-- Row 3: Step 07 -> Step 08 -->
   <line x1="265" y1="632" x2="365" y2="632" class="dotted-path" />
   <line x1="265" y1="632" x2="365" y2="632" class="glowing-light-right" />
 
-
-  <!-- ========================================== -->
-  <!-- 3x3 STEP CARDS GRID                         -->
-  <!-- ========================================== -->
-
-  <!-- STEP 01: Photo & Graphics -->
+  <!-- Step Cards -->
   <g transform="translate(45, 45)">
     <rect width="220" height="160" rx="16" fill="url(#card-bg)" stroke="#38bdf8" stroke-width="2" />
     <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2" class="node-pulse" />
@@ -165,7 +144,6 @@
     <text x="110" y="130" text-anchor="middle" class="step-desc">Photoshop / Banners</text>
   </g>
 
-  <!-- STEP 02: Web Design & UI/UX -->
   <g transform="translate(365, 45)">
     <rect width="220" height="160" rx="16" fill="url(#card-bg)" stroke="#38bdf8" stroke-width="2" />
     <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2" class="node-pulse" />
@@ -174,7 +152,6 @@
     <text x="110" y="130" text-anchor="middle" class="step-desc">UI / UX Layouts</text>
   </g>
 
-  <!-- STEP 03: Responsive Frontend -->
   <g transform="translate(685, 45)">
     <rect width="220" height="160" rx="16" fill="url(#card-bg)" stroke="#38bdf8" stroke-width="2" />
     <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2" class="node-pulse" />
@@ -183,7 +160,6 @@
     <text x="110" y="130" text-anchor="middle" class="step-desc">HTML5 / CSS3 / JS</text>
   </g>
 
-  <!-- STEP 04: Core PHP Engine -->
   <g transform="translate(685, 305)">
     <rect width="220" height="160" rx="16" fill="url(#php-bg)" stroke="#a855f7" stroke-width="2.5" filter="url(#neon-glow)" />
     <circle cx="110" cy="45" r="20" fill="#3b0764" stroke="#c084fc" stroke-width="2" class="node-pulse" />
@@ -192,7 +168,6 @@
     <text x="110" y="130" text-anchor="middle" class="step-desc" fill="#c084fc">Backend Architecture</text>
   </g>
 
-  <!-- STEP 05: MySQL Database -->
   <g transform="translate(365, 305)">
     <rect width="220" height="160" rx="16" fill="url(#card-bg)" stroke="#38bdf8" stroke-width="2" />
     <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2" class="node-pulse" />
@@ -201,7 +176,6 @@
     <text x="110" y="130" text-anchor="middle" class="step-desc">Schema & Query Tuning</text>
   </g>
 
-  <!-- STEP 06: Web Hosting -->
   <g transform="translate(45, 305)">
     <rect width="220" height="160" rx="16" fill="url(#card-bg)" stroke="#38bdf8" stroke-width="2" />
     <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2" class="node-pulse" />
@@ -210,7 +184,6 @@
     <text x="110" y="130" text-anchor="middle" class="step-desc">Cloud & Server Deploy</text>
   </g>
 
-  <!-- STEP 07: SEO Optimization -->
   <g transform="translate(45, 565)">
     <rect width="220" height="135" rx="16" fill="url(#card-bg)" stroke="#38bdf8" stroke-width="2" />
     <circle cx="110" cy="35" r="18" fill="#0f172a" stroke="#38bdf8" stroke-width="2" class="node-pulse" />
@@ -219,7 +192,6 @@
     <text x="110" y="108" text-anchor="middle" class="step-desc">Meta Tags & Speed</text>
   </g>
 
-  <!-- STEP 08: Google Analytics -->
   <g transform="translate(365, 565)">
     <rect width="220" height="135" rx="16" fill="url(#card-bg)" stroke="#34d399" stroke-width="2.5" filter="url(#neon-glow)" />
     <circle cx="110" cy="35" r="18" fill="#064e3b" stroke="#34d399" stroke-width="2" class="node-pulse" />
@@ -227,5 +199,4 @@
     <text x="110" y="85" text-anchor="middle" class="step-title" fill="#ecfdf5">Google Analytics</text>
     <text x="110" y="108" text-anchor="middle" class="step-desc" fill="#34d399">Traffic Tracking</text>
   </g>
-
 </svg>
