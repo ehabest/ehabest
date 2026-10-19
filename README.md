@@ -1,7 +1,7 @@
 <!-- Header SVG Banner -->
 <p align="center">
   <img src="images/header.svg" alt="Ihab Elkady Header" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=ENG.%20IHAB%20ELKADY&fontSize=32&fontColor=3B82F6&animation=fadeIn&fontAlignY=38&desc=Sr.%20Web%20%2526%20Graphic%20Designer%20%7C%20PHP%20%2526%20Frontend%20Developer%20%7C%20Computer%20%2526%20Software%20Engineer&descSize=13&descColor=93C5FD" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=ENG.%20IHAB%20ELKADY&fontSize=32&fontColor=3B82F6&animation=fadeIn&fontAlignY=38&desc=Sr.%20Web%20%26amp%3B%20Graphic%20Designer%20%7C%20PHP%20%26amp%3B%20Frontend%20Developer%20%7C%20Computer%20%26amp%3B%20Software%20Engineer&descSize=13&descColor=93C5FD" width="100%" />
 
 </p>
 <div align="center">
