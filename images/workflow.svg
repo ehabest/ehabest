@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 720" width="100%" height="100%">
+  <defs>
+    <!-- Background Canvas Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060c1c"/>
+      <stop offset="50%" stop-color="#0b1736"/>
+      <stop offset="100%" stop-color="#040814"/>
+    </linearGradient>
+
+    <!-- Standard Step Card Gradient -->
+    <linearGradient id="card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <!-- Highlighted Core PHP Card Gradient -->
+    <linearGradient id="phpCard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b0764"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .t-title { font-family: 'Inter', sans-serif; font-weight: 800; fill: #ffffff; font-size: 17px; }
+    .t-desc { font-family: 'JetBrains Mono', monospace; font-weight: 600; fill: #38bdf8; font-size: 13px; }
+    .t-num { font-family: 'JetBrains Mono', monospace; font-weight: 900; fill: #38bdf8; font-size: 15px; }
+    .track { stroke: #1e3a8a; stroke-width: 5; stroke-dasharray: 8 8; stroke-linecap: round; opacity: 0.6; }
+    .pulse-line { stroke-width: 6; stroke-dasharray: 40 180; stroke-linecap: round; }
+  </style>
+
+  <!-- Background Rect -->
+  <rect width="950" height="720" rx="20" fill="url(#bg)" stroke="#1e293b" stroke-width="3"/>
+
+  <!-- ==================== ANIMATED FLOW LINES ==================== -->
+  <!-- ROW 1: Step 01 -> Step 02 (Left to Right) -->
+  <line x1="265" y1="125" x2="365" y2="125" class="track"/>
+  <line x1="265" y1="125" x2="365" y2="125" class="pulse-line" stroke="#38bdf8">
+    <animate attributeName="stroke-dashoffset" from="220" to="-220" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- ROW 1: Step 02 -> Step 03 (Left to Right) -->
+  <line x1="585" y1="125" x2="685" y2="125" class="track"/>
+  <line x1="585" y1="125" x2="685" y2="125" class="pulse-line" stroke="#38bdf8">
+    <animate attributeName="stroke-dashoffset" from="220" to="-220" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- DROP DOWN 1: Step 03 -> Step 04 (Top Right to Middle Right) -->
+  <line x1="800" y1="205" x2="800" y2="305" class="track"/>
+  <line x1="800" y1="205" x2="800" y2="305" class="pulse-line" stroke="#a855f7">
+    <animate attributeName="stroke-dashoffset" from="220" to="-220" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- ROW 2: Step 04 -> Step 05 (Flows Right to Middle) -->
+  <line x1="685" y1="385" x2="585" y2="385" class="track"/>
+  <line x1="685" y1="385" x2="585" y2="385" class="pulse-line" stroke="#38bdf8">
+    <animate attributeName="stroke-dashoffset" from="220" to="-220" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- ROW 2: Step 05 -> Step 06 (Flows Middle to Left) -->
+  <line x1="365" y1="385" x2="265" y2="385" class="track"/>
+  <line x1="365" y1="385" x2="265" y2="385" class="pulse-line" stroke="#38bdf8">
+    <animate attributeName="stroke-dashoffset" from="220" to="-220" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- DROP DOWN 2: Step 06 -> Step 07 (Middle Left to Bottom Left) -->
+  <line x1="150" y1="465" x2="150" y2="565" class="track"/>
+  <line x1="150" y1="465" x2="150" y2="565" class="pulse-line" stroke="#a855f7">
+    <animate attributeName="stroke-dashoffset" from="220" to="-220" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- ROW 3: Step 07 -> Step 08 (Left to Right) -->
+  <line x1="265" y1="632" x2="365" y2="632" class="track"/>
+  <line x1="265" y1="632" x2="365" y2="632" class="pulse-line" stroke="#38bdf8">
+    <animate attributeName="stroke-dashoffset" from="220" to="-220" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- ==================== 3x3 STEP CARDS GRID ==================== -->
+  <!-- Step 01: Photo & Graphics (Top-Left) -->
+  <g id="card-1" transform="translate(45, 45)">
+    <rect width="220" height="160" rx="16" fill="url(#card)" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2">
+      <animate attributeName="r" values="18;22;18" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="110" y="50" text-anchor="middle" class="t-num">01</text>
+    <text x="110" y="105" text-anchor="middle" class="t-title">Photo &amp; Graphics</text>
+    <text x="110" y="130" text-anchor="middle" class="t-desc">Photoshop / Banners</text>
+  </g>
+
+  <!-- Step 02: Web Design (Top-Middle) -->
+  <g id="card-2" transform="translate(365, 45)">
+    <rect width="220" height="160" rx="16" fill="url(#card)" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2">
+      <animate attributeName="r" values="18;22;18" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="110" y="50" text-anchor="middle" class="t-num">02</text>
+    <text x="110" y="105" text-anchor="middle" class="t-title">Web Design</text>
+    <text x="110" y="130" text-anchor="middle" class="t-desc">UI / UX Layouts</text>
+  </g>
+
+  <!-- Step 03: Responsive UI (Top-Right) -->
+  <g id="card-3" transform="translate(685, 45)">
+    <rect width="220" height="160" rx="16" fill="url(#card)" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2">
+      <animate attributeName="r" values="18;22;18" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="110" y="50" text-anchor="middle" class="t-num">03</text>
+    <text x="110" y="105" text-anchor="middle" class="t-title">Responsive UI</text>
+    <text x="110" y="130" text-anchor="middle" class="t-desc">HTML5 / CSS3 / JS</text>
+  </g>
+
+  <!-- Step 04: Core PHP Engine (Middle-Right) -->
+  <g id="card-4" transform="translate(685, 305)">
+    <rect width="220" height="160" rx="16" fill="url(#phpCard)" stroke="#a855f7" stroke-width="2.5"/>
+    <circle cx="110" cy="45" r="20" fill="#3b0764" stroke="#c084fc" stroke-width="2">
+      <animate attributeName="r" values="18;22;18" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="110" y="50" text-anchor="middle" class="t-num" fill="#c084fc">04</text>
+    <text x="110" y="105" text-anchor="middle" class="t-title" fill="#f3e8ff">Core PHP Engine</text>
+    <text x="110" y="130" text-anchor="middle" class="t-desc" fill="#c084fc">Backend Architecture</text>
+  </g>
+
+  <!-- Step 05: MySQL Database (Middle-Center) -->
+  <g id="card-5" transform="translate(365, 305)">
+    <rect width="220" height="160" rx="16" fill="url(#card)" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2">
+      <animate attributeName="r" values="18;22;18" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="110" y="50" text-anchor="middle" class="t-num">05</text>
+    <text x="110" y="105" text-anchor="middle" class="t-title">MySQL Database</text>
+    <text x="110" y="130" text-anchor="middle" class="t-desc">Schema &amp; Query Tuning</text>
+  </g>
+
+  <!-- Step 06: Web Hosting (Middle-Left) -->
+  <g id="card-6" transform="translate(45, 305)">
+    <rect width="220" height="160" rx="16" fill="url(#card)" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="110" cy="45" r="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2">
+      <animate attributeName="r" values="18;22;18" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="110" y="50" text-anchor="middle" class="t-num">06</text>
+    <text x="110" y="105" text-anchor="middle" class="t-title">Web Hosting</text>
+    <text x="110" y="130" text-anchor="middle" class="t-desc">Cloud &amp; Server Deploy</text>
+  </g>
+
+  <!-- Step 07: SEO Engine (Bottom-Left) -->
+  <g id="card-7" transform="translate(45, 565)">
+    <rect width="220" height="135" rx="16" fill="url(#card)" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="110" cy="35" r="18" fill="#0f172a" stroke="#38bdf8" stroke-width="2">
+      <animate attributeName="r" values="16;20;16" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="110" y="40" text-anchor="middle" class="t-num">07</text>
+    <text x="110" y="85" text-anchor="middle" class="t-title">SEO Engine</text>
+    <text x="110" y="108" text-anchor="middle" class="t-desc">Meta Tags &amp; Speed</text>
+  </g>
+
+  <!-- Step 08: Google Analytics (Bottom-Middle) -->
+  <g id="card-8" transform="translate(365, 565)">
+    <rect width="220" height="135" rx="16" fill="url(#card)" stroke="#34d399" stroke-width="2.5"/>
+    <circle cx="110" cy="35" r="18" fill="#064e3b" stroke="#34d399" stroke-width="2">
+      <animate attributeName="r" values="16;20;16" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="110" y="40" text-anchor="middle" class="t-num" fill="#34d399">08</text>
+    <text x="110" y="85" text-anchor="middle" class="t-title" fill="#ecfdf5">Google Analytics</text>
+    <text x="110" y="108" text-anchor="middle" class="t-desc" fill="#34d399">Traffic Tracking</text>
+  </g>
+</svg>
