@@ -42,7 +42,7 @@ Senior Web Designer and PHP Developer with over 14 years of experience building 
   <img src="images/workflow.svg?v=2" alt="Ihab Elkady 8-Step Workflow Pipeline" width="100%" />
 </p>
 
----
+
 
 <!-- ========================================== -->
 <!-- INTERACTIVE SKILL BADGES GRID              -->
@@ -72,7 +72,7 @@ Senior Web Designer and PHP Developer with over 14 years of experience building 
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
 
----
+
 
 <!-- ========================================== -->
 <!-- FEATURED PLATFORMS SHOWCASE CARDS          -->
@@ -99,7 +99,7 @@ Senior Web Designer and PHP Developer with over 14 years of experience building 
   </tr>
 </table>
 
----
+
 
 <!-- ========================================== -->
 <!-- LIVE GITHUB STATS & METRICS                -->
