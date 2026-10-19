@@ -46,7 +46,7 @@ I build and improve web experiences where **engineering, performance, and visual
   <img src="https://img.shields.io/badge/SEO-%26%20Analytics-0F766E?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="SEO and analytics" />
 </p>
 
----
+
 
 ## Selected work
 
