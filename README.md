@@ -2,7 +2,7 @@
 <p align="center">
   <img src="images/header.svg" alt="Ihab Elkady Header" width="100%" />
 </p>
-<p align="center" style="margin-top: -3px; margin-bottom: 0;">
+<p align="center" style="margin-top: -30px; margin-bottom: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=ENG.%20IHAB%20ELKADY&fontSize=32&fontColor=3B82F6&animation=fadeIn&fontAlignY=38&desc=Senior%20Web%20Designer%20%2526%20Core%20PHP%20Architect&descSize=14&descColor=93C5FD" width="100%" />
 </p>
 
