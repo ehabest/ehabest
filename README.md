@@ -1,6 +1,6 @@
 <!-- Header SVG Banner -->
 <p align="center">
-  <img src="./header.svg" alt="Ihab Elkady Banner" width="100%" />
+  <img src="images/header.svg" alt="Ihab Elkady Banner" width="100%" />
 </p>
 
 <!-- Animated Typing Subtitle -->
