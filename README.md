@@ -26,8 +26,9 @@
 <!-- ========================================== -->
 <!-- EXECUTIVE PROFILE HUD / TERMINAL CARD      -->
 <!-- ========================================== -->
+<!-- Interactive Animated Workflow Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=60A5FA&center=false&vCenter=true&width=750&lines=%E2%9A%A1+Loading+Core+Profile...;%F0%9F%8E%93+Degree%3A+B.Sc.+Computer+Engineering+(AAST+-+Grade%3A+A%2B);%F0%9F%92%BC+Experience%3A+14%2B+Years+Architecting+Web+Platforms;%F0%9F%93%B0+Role%3A+Senior+Web+Designer+%40+Alanba+Newspaper+(Kuwait);%F0%9F%8C%9F+Military%3A+Former+First+Lieutenant+(Egyptian+Air+Defense)" alt="HUD Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=3B82F6&center=true&vCenter=true&width=800&lines=1.+Photo+%26+Graphic+Design+(Photoshop)%20%F0%9F%8E%A8;2.+Web+UI%2FUX+Design%20%F0%9F%96%A5%EF%B8%8F;3.+Responsive+Frontend+(HTML5%2FCSS3%2FJS)%20%F0%9F%93%B1;4.+Core+PHP+Engine+Development%20%E2%9A%A1;5.+MySQL+Database+Architecture%20%F0%9F%97%84%EF%B8%8F;6.+Web+Hosting+%26+Server+Setup%20%E2%98%81%EF%B8%8F;7.+SEO+%26+Meta+Optimization%20%F0%9F%93%88;8.+Google+Analytics+%26+Traffic+Tracking%20%F0%9F%93%8A" alt="Ihab Elkady Workflow Pipeline" />
 </p>
 ---
 
