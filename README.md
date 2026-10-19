@@ -31,7 +31,7 @@ I build and improve web experiences where **engineering, performance, and visual
 
 ## Engineering & design workflow
 
-<p align="center"><img src="images/workflow2.svg" alt="Eight-stage engineering workflow: plan, architect, design, develop, test, optimize, deploy, iterate" width="100%" /></p>
+<p align="center"><img src="images/workflow.svg" alt="Eight-stage engineering workflow: plan, architect, design, develop, test, optimize, deploy, iterate" width="100%" /></p>
 
 ## Technical toolkit
 
