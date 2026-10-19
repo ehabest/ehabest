@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://ihab.habyby.net">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=B.Sc.+Computer+Engineering+(AAST);14%2B+Years+Experience+in+Kuwait+%26+Egypt;Specialized+in+Core+PHP+%26+High-Performance+Web+Apps;UI%2FUX+Architect+%7C+Alanba+Newspaper+Optimizer" alt="Typing Animation" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=ENG.%20IHAB%20ELKADY&fontSize=32&fontColor=3B82F6&animation=fadeIn&fontAlignY=38&desc=Senior%20Web%20Designer%20%2526%20Core%20PHP%20Architect&descSize=14&descColor=93C5FD" width="100%" />
   </a>
 </div>
 
