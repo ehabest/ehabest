@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=ENG.%20IHAB%20ELKADY&fontSize=32&fontColor=3B82F6&animation=fadeIn&fontAlignY=38&desc=Senior%20Web%20Designer%20&%20Core%20PHP%20Architect&descSize=14&descColor=93C5FD" width="100%" />
 </p>
 
-
-
 <div align="center">
   <a href="https://ihab.habyby.net">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=B.Sc.+Computer+Engineering+(AAST);14%2B+Years+Experience+in+Kuwait+%26+Egypt;Specialized+in+Core+PHP+%26+High-Performance+Web+Apps;UI%2FUX+Architect+%7C+Alanba+Newspaper+Optimizer" alt="Typing Animation" />
@@ -24,12 +22,14 @@
 ---
 
 <!-- ========================================== -->
-<!-- EXECUTIVE PROFILE HUD / TERMINAL CARD      -->
+<!-- INTERACTIVE ANIMATED WORKFLOW PIPELINE     -->
 <!-- ========================================== -->
-<!-- Interactive Animated Workflow Section -->
+<h3 align="center">⚡ Engineering & Design Workflow Pipeline</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=3B82F6&center=true&vCenter=true&width=800&lines=1.+Photo+%26+Graphic+Design+(Photoshop)%20%F0%9F%8E%A8;2.+Web+UI%2FUX+Design%20%F0%9F%96%A5%EF%B8%8F;3.+Responsive+Frontend+(HTML5%2FCSS3%2FJS)%20%F0%9F%93%B1;4.+Core+PHP+Engine+Development%20%E2%9A%A1;5.+MySQL+Database+Architecture%20%F0%9F%97%84%EF%B8%8F;6.+Web+Hosting+%26+Server+Setup%20%E2%98%81%EF%B8%8F;7.+SEO+%26+Meta+Optimization%20%F0%9F%93%88;8.+Google+Analytics+%26+Traffic+Tracking%20%F0%9F%93%8A" alt="Ihab Elkady Workflow Pipeline" />
+  <img src="images/workflow.svg" alt="Ihab Elkady 8-Step Workflow Pipeline" width="100%" />
 </p>
+
 ---
 
 <!-- ========================================== -->
