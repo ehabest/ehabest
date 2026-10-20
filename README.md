@@ -50,7 +50,42 @@ I build and improve web experiences where **engineering, performance, and visual
   <img src="https://img.shields.io/badge/SEO-%26%20Analytics-0F766E?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="SEO and analytics" />
 </p>
 
+### 🛠️ Tech Stack
 
+<!-- Standard brand icons (supported by skillicons) -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,jquery,dotnet,androidstudio,xcode,mysql,bootstrap,photoshop,illustrator,figma,aws,wordpress,git,github,vscode,nodejs,docker,vercel&theme=dark&perline=10)](https://skillicons.dev)
+
+<!-- Supplemented brand icons (supported by simpleicons, using official slugs) -->
+![JSON](https://simpleicons.dev/icons?icons=json&theme=dark)
+![XML](https://simpleicons.dev/icons?icons=xml&theme=dark)
+![AWS S3](https://simpleicons.dev/icons?icons=amazons3&theme=dark)
+![AWS EC2](https://simpleicons.dev/icons?icons=amazonec2&theme=dark)
+![AWS Route53](https://simpleicons.dev/icons?icons=amazonroute53&theme=dark)
+![Shopify](https://simpleicons.dev/icons?icons=shopify&theme=dark)
+![Wix](https://simpleicons.dev/icons?icons=wix&theme=dark)
+![Adobe Acrobat](https://simpleicons.dev/icons?icons=adobeacrobatreader&theme=dark)
+![Google Analytics](https://simpleicons.dev/icons?icons=googleanalytics&theme=dark)
+![Google Ads](https://simpleicons.dev/icons?icons=googleads&theme=dark)
+
+<!-- Terms without official icons, using Shields.io text badges -->
+![AJAX](https://img.shields.io/badge/AJAX-005A9C?style=flat-square)
+![Testing](https://img.shields.io/badge/Testing-✅-green?style=flat-square)
+![Cross-Browser Testing](https://img.shields.io/badge/Cross--Browser_Testing-🌐-blue?style=flat-square)
+![User Acceptance Testing](https://img.shields.io/badge/UAT-User_Acceptance-blue?style=flat-square)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-⚙️-orange?style=flat-square)
+![Performance Testing](https://img.shields.io/badge/Performance_Testing-⚡-yellow?style=flat-square)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square)
+![WAMP](https://img.shields.io/badge/WAMP-Stack-red?style=flat-square)
+![Web Hosting](https://img.shields.io/badge/Web_Hosting-🌍-lightgrey?style=flat-square)
+![Filmora](https://img.shields.io/badge/Filmora-🎬-purple?style=flat-square)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=flat-square)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-📱-blueviolet?style=flat-square)
+![Logo Design](https://img.shields.io/badge/Logo_Design-🎨-pink?style=flat-square)
+![Brand Identity](https://img.shields.io/badge/Brand_Identity-🏷️-grey?style=flat-square)
+![SEO](https://img.shields.io/badge/Social_Media_%26_SEO-4285F4?style=flat-square)
+![Gebo](https://img.shields.io/badge/Gebo-555555?style=flat-square)
+![adminLTR](https://img.shields.io/badge/adminLTR-555555?style=flat-square)
 
 ## Selected work
 
