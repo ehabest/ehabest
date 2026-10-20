@@ -54,43 +54,32 @@ I build and improve web experiences where **engineering, performance, and visual
 
 <!-- SimpleIcons official CDN: https://cdn.simpleicons.org/[slug] -->
 
-<!-- Languages / Frontend -->
+<p align="left">
 <img src="https://cdn.simpleicons.org/html5" height="40" alt="HTML5" />
 <img src="https://cdn.simpleicons.org/css3" height="40" alt="CSS3" />
 <img src="https://cdn.simpleicons.org/php" height="40" alt="PHP" />
 <img src="https://cdn.simpleicons.org/javascript" height="40" alt="JavaScript" />
 <img src="https://cdn.simpleicons.org/jquery" height="40" alt="jQuery" />
-
-<!-- Data / Backend -->
 <img src="https://cdn.simpleicons.org/json" height="40" alt="JSON" />
 <img src="https://cdn.simpleicons.org/xml" height="40" alt="XML" />
 <img src="https://cdn.simpleicons.org/dotnet" height="40" alt="ASP.NET" />
-
-<!-- Mobile -->
 <img src="https://cdn.simpleicons.org/xcode" height="40" alt="Xcode" />
 <img src="https://cdn.simpleicons.org/androidstudio" height="40" alt="Android Studio" />
-
-<!-- Database / Hosting / CMS -->
 <img src="https://cdn.simpleicons.org/mysql" height="40" alt="MySQL" />
 <img src="https://cdn.simpleicons.org/wordpress" height="40" alt="CMS (WordPress)" />
-
-<!-- Cloud / E-Commerce -->
 <img src="https://cdn.simpleicons.org/amazonaws" height="40" alt="AWS" />
 <img src="https://cdn.simpleicons.org/amazons3" height="40" alt="S3" />
 <img src="https://cdn.simpleicons.org/amazonroute53" height="40" alt="Route53" />
 <img src="https://cdn.simpleicons.org/amazonec2" height="40" alt="EC2" />
 <img src="https://cdn.simpleicons.org/wix" height="40" alt="Wix" />
 <img src="https://cdn.simpleicons.org/shopify" height="40" alt="Shopify" />
-
-<!-- Design / Multimedia -->
 <img src="https://cdn.simpleicons.org/adobephotoshop" height="40" alt="Photoshop" />
 <img src="https://cdn.simpleicons.org/adobeillustrator" height="40" alt="Illustrator" />
 <img src="https://cdn.simpleicons.org/adobeacrobatreader" height="40" alt="Adobe Acrobat" />
-
-<!-- Frameworks / Analytics -->
 <img src="https://cdn.simpleicons.org/bootstrap" height="40" alt="Bootstrap" />
 <img src="https://cdn.simpleicons.org/googleanalytics" height="40" alt="Google Analytics" />
 <img src="https://cdn.simpleicons.org/googleads" height="40" alt="Google Ads" />
+</p>
 
 ## Selected work
 
