@@ -35,22 +35,8 @@ I build and improve web experiences where **engineering, performance, and visual
   <img src="images/workflow2.svg" alt="Engineering & design workflow" width="100%" />
 </p>
 
-## Technical toolkit
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-Core%20PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Core PHP" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-UI-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-Responsive-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/jQuery-AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery and AJAX" />
-  <img src="https://img.shields.io/badge/ASP.NET-Web-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/SEO-%26%20Analytics-0F766E?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="SEO and analytics" />
-</p>
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0" align="center">
   <tr>
