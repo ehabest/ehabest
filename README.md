@@ -52,190 +52,279 @@ I build and improve web experiences where **engineering, performance, and visual
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<div align="center">
-  <!-- HTML5 -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/html5-logo-transparent.png" width="64" height="64" alt="html5" /></a><br /><b>HTML5</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- CSS3 -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/css3-logo-transparent.png" width="64" height="64" alt="css3" /></a><br /><b>CSS3</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- PHP -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/php-logo-transparent.png" width="64" height="64" alt="php" /></a><br /><b>PHP</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- JavaScript -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/javascript-logo-transparent.png" width="64" height="64" alt="javascript" /></a><br /><b>JavaScript</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- jQuery -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/jquery-logo-transparent.png" width="64" height="64" alt="jquery" /></a><br /><b>jQuery</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- AJAX -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/ajax-logo-transparent.png" width="64" height="64" alt="ajax" /></a><br /><b>AJAX</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- JSON -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/json-logo-transparent.png" width="64" height="64" alt="json" /></a><br /><b>JSON</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- XML -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/xml-logo-transparent.png" width="64" height="64" alt="xml" /></a><br /><b>XML</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- ASP.NET -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/aspnet-logo-transparent.png" width="64" height="64" alt="aspnet" /></a><br /><b>ASP.NET</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Xcode -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/xcode-logo-transparent.png" width="64" height="64" alt="xcode" /></a><br /><b>Xcode</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Android Studio -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/android-studio-logo-transparent.png" width="64" height="64" alt="android-studio" /></a><br /><b>Android Studio</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Testing -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/testing-logo-transparent.png" width="64" height="64" alt="testing" /></a><br /><b>Testing</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Cross-Browser Testing -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/cross-browser-testing-logo-transparent.png" width="64" height="64" alt="cross-browser-testing" /></a><br /><b>Cross-Browser</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- UAT -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/user-acceptance-testing-logo-transparent.png" width="64" height="64" alt="uat" /></a><br /><b>UAT</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Functional Testing -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/functional-testing-logo-transparent.png" width="64" height="64" alt="functional-testing" /></a><br /><b>Functional</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Performance Testing -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/performance-testing-logo-transparent.png" width="64" height="64" alt="performance-testing" /></a><br /><b>Performance</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Databases & Hosting -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/databases-hosting-logo-transparent.png" width="64" height="64" alt="databases-hosting" /></a><br /><b>Databases</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- MySQL -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/mysql-logo-transparent.png" width="64" height="64" alt="mysql" /></a><br /><b>MySQL</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- WAMP -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/wamp-logo-transparent.png" width="64" height="64" alt="wamp" /></a><br /><b>WAMP</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Web Hosting -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/web-hosting-logo-transparent.png" width="64" height="64" alt="web-hosting" /></a><br /><b>Web Hosting</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- CMS -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/cms-logo-transparent.png" width="64" height="64" alt="cms" /></a><br /><b>CMS</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- AWS -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/aws-logo-transparent.png" width="64" height="64" alt="aws" /></a><br /><b>AWS</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Wix -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/wix-logo-transparent.png" width="64" height="64" alt="wix" /></a><br /><b>Wix</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Shopify -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/shopify-logo-transparent.png" width="64" height="64" alt="shopify" /></a><br /><b>Shopify</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Design & Multimedia -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/design-multimedia-logo-transparent.png" width="64" height="64" alt="design-multimedia" /></a><br /><b>Design</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Photoshop -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/photoshop-logo-transparent.png" width="64" height="64" alt="photoshop" /></a><br /><b>Photoshop</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Filmora -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/filmora-logo-transparent.png" width="64" height="64" alt="filmora" /></a><br /><b>Filmora</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Illustrator -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/illustrator-logo-transparent.png" width="64" height="64" alt="illustrator" /></a><br /><b>Illustrator</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Adobe Acrobat -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/adobe-acrobat-logo-transparent.png" width="64" height="64" alt="adobe-acrobat" /></a><br /><b>Acrobat</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Microsoft Office -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/microsoft-office-logo-transparent.png" width="64" height="64" alt="microsoft-office" /></a><br /><b>MS Office</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- UI/UX -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/ui-ux-design-logo-transparent.png" width="64" height="64" alt="ui-ux-design" /></a><br /><b>UI/UX</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Responsive Design -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/responsive-design-logo-transparent.png" width="64" height="64" alt="responsive-design" /></a><br /><b>Responsive</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Logo Design -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/logo-design-logo-transparent.png" width="64" height="64" alt="logo-design" /></a><br /><b>Logo Design</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Frameworks & Optimization -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/frameworks-optimization-logo-transparent.png" width="64" height="64" alt="frameworks-optimization" /></a><br /><b>Frameworks</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Bootstrap -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/bootstrap-logo-transparent.png" width="64" height="64" alt="bootstrap" /></a><br /><b>Bootstrap</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Google Analytics & Ads -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/google-analytics-ads-logo-transparent.png" width="64" height="64" alt="google-analytics-ads" /></a><br /><b>Google Ads</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Social Media & SEO -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/social-media-seo-logo-transparent.png" width="64" height="64" alt="social-media-seo" /></a><br /><b>SEO</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- MS Office -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/ms-office-logo-transparent.png" width="64" height="64" alt="ms-office" /></a><br /><b>MS Office</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- adminLTR -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/adminltr-logo-transparent.png" width="64" height="64" alt="adminltr" /></a><br /><b>adminLTR</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- TypeScript -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/typescript-logo-transparent.png" width="64" height="64" alt="typescript" /></a><br /><b>TypeScript</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- SASS -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/sass-logo-transparent.png" width="64" height="64" alt="sass" /></a><br /><b>SASS</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Python -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/python-logo-transparent.png" width="64" height="64" alt="python" /></a><br /><b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Java -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/java-logo-transparent.png" width="64" height="64" alt="java" /></a><br /><b>Java</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- C# -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/csharp-logo-transparent.png" width="64" height="64" alt="csharp" /></a><br /><b>C#</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- C++ -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/cpp-logo-transparent.png" width="64" height="64" alt="cpp" /></a><br /><b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- React -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/react-logo-transparent.png" width="64" height="64" alt="react" /></a><br /><b>React</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Next.js -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/nextjs-logo-transparent.png" width="64" height="64" alt="nextjs" /></a><br /><b>Next.js</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Vue.js -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/vuejs-logo-transparent.png" width="64" height="64" alt="vuejs" /></a><br /><b>Vue.js</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Angular -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/angular-logo-transparent.png" width="64" height="64" alt="angular" /></a><br /><b>Angular</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Tailwind -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/tailwind-logo-transparent.png" width="64" height="64" alt="tailwind" /></a><br /><b>Tailwind</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Redux -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/redux-logo-transparent.png" width="64" height="64" alt="redux" /></a><br /><b>Redux</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Node.js -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/nodejs-logo-transparent.png" width="64" height="64" alt="nodejs" /></a><br /><b>Node.js</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Flutter -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/flutter-logo-transparent.png" width="64" height="64" alt="flutter" /></a><br /><b>Flutter</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Dart -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/dart-logo-transparent.png" width="64" height="64" alt="dart" /></a><br /><b>Dart</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Swift -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/swift-logo-transparent.png" width="64" height="64" alt="swift" /></a><br /><b>Swift</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Kotlin -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/kotlin-logo-transparent.png" width="64" height="64" alt="kotlin" /></a><br /><b>Kotlin</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Git -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/git-logo-transparent.png" width="64" height="64" alt="git" /></a><br /><b>Git</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Docker -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/docker-logo-transparent.png" width="64" height="64" alt="docker" /></a><br /><b>Docker</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Linux -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/linux-logo-transparent.png" width="64" height="64" alt="linux" /></a><br /><b>Linux</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- VS Code -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/vscode-logo-transparent.png" width="64" height="64" alt="vscode" /></a><br /><b>VS Code</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Figma -->
-  <a href="#"><img src="https://l.habyby.net/images/social/color-transparent/figma-logo-transparent.png" width="64" height="64" alt="figma" /></a><br /><b>Figma</b> &nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+<table width="100%" border="0" cellpadding="10" cellspacing="0" align="center">
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/html5-logo-transparent.png" width="64" height="64" alt="HTML5" />
+      <br /><b>HTML5</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/css3-logo-transparent.png" width="64" height="64" alt="CSS3" />
+      <br /><b>CSS3</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/php-logo-transparent.png" width="64" height="64" alt="PHP" />
+      <br /><b>PHP</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/javascript-logo-transparent.png" width="64" height="64" alt="JavaScript" />
+      <br /><b>JavaScript</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/jquery-logo-transparent.png" width="64" height="64" alt="jQuery" />
+      <br /><b>jQuery</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/ajax-logo-transparent.png" width="64" height="64" alt="AJAX" />
+      <br /><b>AJAX</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/json-logo-transparent.png" width="64" height="64" alt="JSON" />
+      <br /><b>JSON</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/xml-logo-transparent.png" width="64" height="64" alt="XML" />
+      <br /><b>XML</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/aspnet-logo-transparent.png" width="64" height="64" alt="ASP.NET" />
+      <br /><b>ASP.NET</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/xcode-logo-transparent.png" width="64" height="64" alt="Xcode" />
+      <br /><b>Xcode</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/android-studio-logo-transparent.png" width="64" height="64" alt="Android Studio" />
+      <br /><b>Android Studio</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/testing-logo-transparent.png" width="64" height="64" alt="Testing" />
+      <br /><b>Testing</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/cross-browser-testing-logo-transparent.png" width="64" height="64" alt="Cross-Browser Testing" />
+      <br /><b>Cross-Browser</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/user-acceptance-testing-logo-transparent.png" width="64" height="64" alt="UAT" />
+      <br /><b>UAT</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/functional-testing-logo-transparent.png" width="64" height="64" alt="Functional Testing" />
+      <br /><b>Functional</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/performance-testing-logo-transparent.png" width="64" height="64" alt="Performance Testing" />
+      <br /><b>Performance</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/databases-hosting-logo-transparent.png" width="64" height="64" alt="Databases" />
+      <br /><b>Databases</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/mysql-logo-transparent.png" width="64" height="64" alt="MySQL" />
+      <br /><b>MySQL</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/wamp-logo-transparent.png" width="64" height="64" alt="WAMP" />
+      <br /><b>WAMP</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/web-hosting-logo-transparent.png" width="64" height="64" alt="Web Hosting" />
+      <br /><b>Web Hosting</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/cms-logo-transparent.png" width="64" height="64" alt="CMS" />
+      <br /><b>CMS</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/aws-logo-transparent.png" width="64" height="64" alt="AWS" />
+      <br /><b>AWS</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/wix-logo-transparent.png" width="64" height="64" alt="Wix" />
+      <br /><b>Wix</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/shopify-logo-transparent.png" width="64" height="64" alt="Shopify" />
+      <br /><b>Shopify</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/design-multimedia-logo-transparent.png" width="64" height="64" alt="Design" />
+      <br /><b>Design</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/photoshop-logo-transparent.png" width="64" height="64" alt="Photoshop" />
+      <br /><b>Photoshop</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/filmora-logo-transparent.png" width="64" height="64" alt="Filmora" />
+      <br /><b>Filmora</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/illustrator-logo-transparent.png" width="64" height="64" alt="Illustrator" />
+      <br /><b>Illustrator</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/adobe-acrobat-logo-transparent.png" width="64" height="64" alt="Adobe Acrobat" />
+      <br /><b>Acrobat</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/microsoft-office-logo-transparent.png" width="64" height="64" alt="Microsoft Office" />
+      <br /><b>MS Office</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/ui-ux-design-logo-transparent.png" width="64" height="64" alt="UI/UX" />
+      <br /><b>UI/UX</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/responsive-design-logo-transparent.png" width="64" height="64" alt="Responsive" />
+      <br /><b>Responsive</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/logo-design-logo-transparent.png" width="64" height="64" alt="Logo Design" />
+      <br /><b>Logo Design</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/frameworks-optimization-logo-transparent.png" width="64" height="64" alt="Frameworks" />
+      <br /><b>Frameworks</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/bootstrap-logo-transparent.png" width="64" height="64" alt="Bootstrap" />
+      <br /><b>Bootstrap</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/google-analytics-ads-logo-transparent.png" width="64" height="64" alt="Google Analytics" />
+      <br /><b>Google Ads</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/social-media-seo-logo-transparent.png" width="64" height="64" alt="SEO" />
+      <br /><b>SEO</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/ms-office-logo-transparent.png" width="64" height="64" alt="MS Office" />
+      <br /><b>MS Office</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/adminltr-logo-transparent.png" width="64" height="64" alt="adminLTR" />
+      <br /><b>adminLTR</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/typescript-logo-transparent.png" width="64" height="64" alt="TypeScript" />
+      <br /><b>TypeScript</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/sass-logo-transparent.png" width="64" height="64" alt="SASS" />
+      <br /><b>SASS</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/python-logo-transparent.png" width="64" height="64" alt="Python" />
+      <br /><b>Python</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/java-logo-transparent.png" width="64" height="64" alt="Java" />
+      <br /><b>Java</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/csharp-logo-transparent.png" width="64" height="64" alt="C#" />
+      <br /><b>C#</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/cpp-logo-transparent.png" width="64" height="64" alt="C++" />
+      <br /><b>C++</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/react-logo-transparent.png" width="64" height="64" alt="React" />
+      <br /><b>React</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/nextjs-logo-transparent.png" width="64" height="64" alt="Next.js" />
+      <br /><b>Next.js</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/vuejs-logo-transparent.png" width="64" height="64" alt="Vue.js" />
+      <br /><b>Vue.js</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/angular-logo-transparent.png" width="64" height="64" alt="Angular" />
+      <br /><b>Angular</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/tailwind-logo-transparent.png" width="64" height="64" alt="Tailwind" />
+      <br /><b>Tailwind</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/redux-logo-transparent.png" width="64" height="64" alt="Redux" />
+      <br /><b>Redux</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/nodejs-logo-transparent.png" width="64" height="64" alt="Node.js" />
+      <br /><b>Node.js</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/flutter-logo-transparent.png" width="64" height="64" alt="Flutter" />
+      <br /><b>Flutter</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/dart-logo-transparent.png" width="64" height="64" alt="Dart" />
+      <br /><b>Dart</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/swift-logo-transparent.png" width="64" height="64" alt="Swift" />
+      <br /><b>Swift</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/kotlin-logo-transparent.png" width="64" height="64" alt="Kotlin" />
+      <br /><b>Kotlin</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/git-logo-transparent.png" width="64" height="64" alt="Git" />
+      <br /><b>Git</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/docker-logo-transparent.png" width="64" height="64" alt="Docker" />
+      <br /><b>Docker</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/linux-logo-transparent.png" width="64" height="64" alt="Linux" />
+      <br /><b>Linux</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/vscode-logo-transparent.png" width="64" height="64" alt="VS Code" />
+      <br /><b>VS Code</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/figma-logo-transparent.png" width="64" height="64" alt="Figma" />
+      <br /><b>Figma</b>
+    </td>
+    <td align="center" width="16%"></td>
+    <td align="center" width="16%"></td>
+    <td align="center" width="16%"></td>
+    <td align="center" width="16%"></td>
+    <td align="center" width="16%"></td>
+  </tr>
+</table>
 
 ## Selected work
 
