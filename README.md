@@ -248,9 +248,18 @@ I build and improve web experiences where **engineering, performance, and visual
       <img src="https://l.habyby.net/images/social/color-transparent/vscode-logo-transparent.png" width="64" height="64" alt="VS Code" />
       <br /><b>VS Code</b>
     </td>
-     <td align="center" width="16%"></td>
-      <td align="center" width="16%"></td>
-       <td align="center" width="16%"></td>
+      <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/azure-logo-transparent.png" width="64" height="64" alt="Azure" />
+      <br /><b>Azure</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/cloudflare-logo-transparent.png" width="64" height="64" alt="Cloudflare" />
+      <br /><b>Cloudflare</b>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://l.habyby.net/images/social/color-transparent/social-media-sharing-logo-transparent.png" width="64" height="64" alt="Social Media Sharing" />
+      <br /><b>Social Sharing</b>
+    </td>
    
   </tr>
 
