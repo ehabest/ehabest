@@ -206,17 +206,13 @@ I build and improve web experiences where **engineering, performance, and visual
     </td>
     <td align="center" width="16%">
       <img src="https://l.habyby.net/images/social/color-transparent/google-analytics-ads-logo-transparent.png" width="64" height="64" alt="Google Analytics" />
-      <br /><b>Google Ads</b>
+      <br /><b>Google Analytics</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="16%">
       <img src="https://l.habyby.net/images/social/color-transparent/social-media-seo-logo-transparent.png" width="64" height="64" alt="SEO" />
       <br /><b>SEO</b>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/ms-office-logo-transparent.png" width="64" height="64" alt="MS Office" />
-      <br /><b>MS Office</b>
     </td>
     <td align="center" width="16%">
       <img src="https://l.habyby.net/images/social/color-transparent/adminltr-logo-transparent.png" width="64" height="64" alt="adminLTR" />
@@ -234,75 +230,15 @@ I build and improve web experiences where **engineering, performance, and visual
       <img src="https://l.habyby.net/images/social/color-transparent/python-logo-transparent.png" width="64" height="64" alt="Python" />
       <br /><b>Python</b>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/java-logo-transparent.png" width="64" height="64" alt="Java" />
-      <br /><b>Java</b>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/csharp-logo-transparent.png" width="64" height="64" alt="C#" />
-      <br /><b>C#</b>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/cpp-logo-transparent.png" width="64" height="64" alt="C++" />
-      <br /><b>C++</b>
-    </td>
     <td align="center" width="16%">
       <img src="https://l.habyby.net/images/social/color-transparent/react-logo-transparent.png" width="64" height="64" alt="React" />
       <br /><b>React</b>
     </td>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/nextjs-logo-transparent.png" width="64" height="64" alt="Next.js" />
-      <br /><b>Next.js</b>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/vuejs-logo-transparent.png" width="64" height="64" alt="Vue.js" />
-      <br /><b>Vue.js</b>
-    </td>
   </tr>
   <tr>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/angular-logo-transparent.png" width="64" height="64" alt="Angular" />
-      <br /><b>Angular</b>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/tailwind-logo-transparent.png" width="64" height="64" alt="Tailwind" />
-      <br /><b>Tailwind</b>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/redux-logo-transparent.png" width="64" height="64" alt="Redux" />
-      <br /><b>Redux</b>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/nodejs-logo-transparent.png" width="64" height="64" alt="Node.js" />
-      <br /><b>Node.js</b>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/flutter-logo-transparent.png" width="64" height="64" alt="Flutter" />
-      <br /><b>Flutter</b>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/dart-logo-transparent.png" width="64" height="64" alt="Dart" />
-      <br /><b>Dart</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/swift-logo-transparent.png" width="64" height="64" alt="Swift" />
-      <br /><b>Swift</b>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/kotlin-logo-transparent.png" width="64" height="64" alt="Kotlin" />
-      <br /><b>Kotlin</b>
-    </td>
     <td align="center" width="16%">
       <img src="https://l.habyby.net/images/social/color-transparent/git-logo-transparent.png" width="64" height="64" alt="Git" />
       <br /><b>Git</b>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/docker-logo-transparent.png" width="64" height="64" alt="Docker" />
-      <br /><b>Docker</b>
     </td>
     <td align="center" width="16%">
       <img src="https://l.habyby.net/images/social/color-transparent/linux-logo-transparent.png" width="64" height="64" alt="Linux" />
@@ -312,18 +248,13 @@ I build and improve web experiences where **engineering, performance, and visual
       <img src="https://l.habyby.net/images/social/color-transparent/vscode-logo-transparent.png" width="64" height="64" alt="VS Code" />
       <br /><b>VS Code</b>
     </td>
+     <td align="center" width="16%"></td>
+      <td align="center" width="16%"></td>
+       <td align="center" width="16%"></td>
+   
   </tr>
-  <tr>
-    <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/figma-logo-transparent.png" width="64" height="64" alt="Figma" />
-      <br /><b>Figma</b>
-    </td>
-    <td align="center" width="16%"></td>
-    <td align="center" width="16%"></td>
-    <td align="center" width="16%"></td>
-    <td align="center" width="16%"></td>
-    <td align="center" width="16%"></td>
-  </tr>
+
+  
 </table>
 
 ## Selected work
