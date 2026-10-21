@@ -251,6 +251,9 @@ I build and improve web experiences where **engineering, performance, and visual
 
   
 </table>
+> 💡 **Icons:** Feel free to use my icons at `https://l.habyby.net/images/social/color-transparent/[title]-logo-transparent.png` (Dedicated repo coming soon!)
+
+> 💻 **Philosophy:** *"I care about maintainable code, clear interfaces, reliable delivery, and measurable improvements—not just making a page look good."*
 
 ## Selected work
 
