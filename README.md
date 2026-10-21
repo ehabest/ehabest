@@ -50,36 +50,100 @@ I build and improve web experiences where **engineering, performance, and visual
   <img src="https://img.shields.io/badge/SEO-%26%20Analytics-0F766E?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="SEO and analytics" />
 </p>
 
-### 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<!-- SimpleIcons official CDN: https://cdn.simpleicons.org/[slug] -->
-
-<p align="left">
-<img src="https://cdn.simpleicons.org/html5" height="40" alt="HTML5" />
-<img src="https://cdn.simpleicons.org/css3" height="40" alt="CSS3" />
-<img src="https://cdn.simpleicons.org/php" height="40" alt="PHP" />
-<img src="https://cdn.simpleicons.org/javascript" height="40" alt="JavaScript" />
-<img src="https://cdn.simpleicons.org/jquery" height="40" alt="jQuery" />
-<img src="https://cdn.simpleicons.org/json" height="40" alt="JSON" />
-<img src="https://cdn.simpleicons.org/xml" height="40" alt="XML" />
-<img src="https://cdn.simpleicons.org/dotnet" height="40" alt="ASP.NET" />
-<img src="https://cdn.simpleicons.org/xcode" height="40" alt="Xcode" />
-<img src="https://cdn.simpleicons.org/androidstudio" height="40" alt="Android Studio" />
-<img src="https://cdn.simpleicons.org/mysql" height="40" alt="MySQL" />
-<img src="https://cdn.simpleicons.org/wordpress" height="40" alt="CMS (WordPress)" />
-<img src="https://cdn.simpleicons.org/amazonaws" height="40" alt="AWS" />
-<img src="https://cdn.simpleicons.org/amazons3" height="40" alt="S3" />
-<img src="https://cdn.simpleicons.org/amazonroute53" height="40" alt="Route53" />
-<img src="https://cdn.simpleicons.org/amazonec2" height="40" alt="EC2" />
-<img src="https://cdn.simpleicons.org/wix" height="40" alt="Wix" />
-<img src="https://cdn.simpleicons.org/shopify" height="40" alt="Shopify" />
-<img src="https://cdn.simpleicons.org/adobephotoshop" height="40" alt="Photoshop" />
-<img src="https://cdn.simpleicons.org/adobeillustrator" height="40" alt="Illustrator" />
-<img src="https://cdn.simpleicons.org/adobeacrobatreader" height="40" alt="Adobe Acrobat" />
-<img src="https://cdn.simpleicons.org/bootstrap" height="40" alt="Bootstrap" />
-<img src="https://cdn.simpleicons.org/googleanalytics" height="40" alt="Google Analytics" />
-<img src="https://cdn.simpleicons.org/googleads" height="40" alt="Google Ads" />
-</p>
+<table align="center" border="0" cellpadding="15" cellspacing="0">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/html5-logo-transparent.png" width="60" height="60" alt="HTML5" />
+      <br /><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/css3-logo-transparent.png" width="60" height="60" alt="CSS3" />
+      <br /><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/php-logo-transparent.png" width="60" height="60" alt="PHP" />
+      <br /><sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/javascript-logo-transparent.png" width="60" height="60" alt="JavaScript" />
+      <br /><sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/jquery-logo-transparent.png" width="60" height="60" alt="jQuery" />
+      <br /><sub><b>jQuery</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/json-logo-transparent.png" width="60" height="60" alt="JSON" />
+      <br /><sub><b>JSON</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/xml-logo-transparent.png" width="60" height="60" alt="XML" />
+      <br /><sub><b>XML</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/aspnet-logo-transparent.png" width="60" height="60" alt="ASP.NET" />
+      <br /><sub><b>ASP.NET</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/xcode-logo-transparent.png" width="60" height="60" alt="Xcode" />
+      <br /><sub><b>Xcode</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/android-studio-logo-transparent.png" width="60" height="60" alt="Android Studio" />
+      <br /><sub><b>Android Studio</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/mysql-logo-transparent.png" width="60" height="60" alt="MySQL" />
+      <br /><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/cms-logo-transparent.png" width="60" height="60" alt="CMS" />
+      <br /><sub><b>CMS</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/aws-logo-transparent.png" width="60" height="60" alt="AWS" />
+      <br /><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/wix-logo-transparent.png" width="60" height="60" alt="Wix" />
+      <br /><sub><b>Wix</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/shopify-logo-transparent.png" width="60" height="60" alt="Shopify" />
+      <br /><sub><b>Shopify</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/bootstrap-logo-transparent.png" width="60" height="60" alt="Bootstrap" />
+      <br /><sub><b>Bootstrap</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/photoshop-logo-transparent.png" width="60" height="60" alt="Photoshop" />
+      <br /><sub><b>Photoshop</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/illustrator-logo-transparent.png" width="60" height="60" alt="Illustrator" />
+      <br /><sub><b>Illustrator</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/adobe-acrobat-logo-transparent.png" width="60" height="60" alt="Adobe Acrobat" />
+      <br /><sub><b>Adobe Acrobat</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://l.habyby.net/images/social/color-transparent/google-analytics-ads-logo-transparent.png" width="60" height="60" alt="Google Analytics" />
+      <br /><sub><b>Google Analytics</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## Selected work
 
