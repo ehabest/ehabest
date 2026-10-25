@@ -252,7 +252,7 @@ I build and improve web experiences where **engineering, performance, and visual
   
 </table>
 
-> 💡 **Icons:** Feel free to use my icons at `https://l.habyby.net/images/social/color-transparent/[title]-logo-transparent.png` (Dedicated repo coming soon!)
+> 💡 **Icons:** Feel free to use my icons API `https://l.habyby.net/logo.php` tester `https://ihab.habyby.net/test.php` (Dedicated repo `https://github.com/ehabest/lhabyby-icons-api`)
 
 ## Selected work
 
@@ -313,3 +313,9 @@ I build and improve web experiences where **engineering, performance, and visual
   <a href="https://www.behance.net/ehabest"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="mailto:ihab@habyby.net"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
+
+---
+
+Thanks for visiting my profile!
+If you like my work, consider giving a ⭐ to the repositories you find useful.
+
