@@ -291,7 +291,7 @@ I build and improve web experiences where **engineering, performance, and visual
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ehabest&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for ehabest" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehabest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages for ehabest" width="49%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehabest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages for ehabest" width="49%" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehabest&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for ehabest" width="80%" />
 </div>
@@ -315,7 +315,7 @@ I build and improve web experiences where **engineering, performance, and visual
 </div>
 
 ---
-
+<div align="center">
 Thanks for visiting my profile!
 If you like my work, consider giving a ⭐ to the repositories you find useful.
-
+</div>
