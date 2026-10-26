@@ -289,11 +289,16 @@ I build and improve web experiences where **engineering, performance, and visual
 
 ## GitHub at a glance
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehabest&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for ehabest" width="49%" height="195" /><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehabest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages for ehabest" width="49%" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ehabest&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for ehabest" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehabest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages for ehabest" width="49%" />
+
   <br /><br />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehabest&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for ehabest" width="80%" />
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ehabest&label=PROFILE%20VIEWS&color=0B84F3&style=flat-square" alt="Profile views" />
