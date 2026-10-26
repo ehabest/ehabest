@@ -294,17 +294,16 @@ I build and improve web experiences where **engineering, performance, and visual
 
 <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" align="right" valign="top">
+    <td width="50%" align="right" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=ehabest&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for ehabest" width="100%" height="195" />
     </td>
-    <td width="50%" align="left" valign="top">
+    <td width="50%" align="left" valign="middle">
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehabest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages for ehabest" width="100%" height="195" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehabest&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for ehabest" width="80%" />
 </div>
 
