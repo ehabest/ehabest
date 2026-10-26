@@ -330,5 +330,6 @@ I build and improve web experiences where **engineering, performance, and visual
 ---
 <div align="center">
 Thanks for visiting my profile!
+</br>
 If you like my work, consider giving a ⭐ to the repositories you find useful.
 </div>
