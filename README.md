@@ -191,7 +191,7 @@ I build and improve web experiences where **engineering, performance, and visual
       <br /><b>Bootstrap</b>
     </td>
     <td align="center" width="16%">
-      <img src="https://l.habyby.net/images/social/color-transparent/google-analytics-ads-logo-transparent.png" width="64" height="64" alt="Google Analytics" />
+      <img src="https://l.habyby.net/images/social/color-transparent/google-analytics-logo-transparent.png" width="64" height="64" alt="Google Analytics" />
       <br /><b>Google Analytics & Ads</b>
     </td>
   </tr>
