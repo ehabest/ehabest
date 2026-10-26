@@ -304,7 +304,7 @@ I build and improve web experiences where **engineering, performance, and visual
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehabest&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for ehabest" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehabest&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for ehabest" width="100%" />
 </div>
 
 
