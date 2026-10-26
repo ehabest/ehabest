@@ -291,8 +291,8 @@ I build and improve web experiences where **engineering, performance, and visual
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehabest&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for ehabest" width="49%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehabest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages for ehabest" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ehabest&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for ehabest" width="49%" height="195" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehabest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages for ehabest" width="49%" height="195" />
 
   <br /><br />
 
