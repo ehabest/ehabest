@@ -287,7 +287,11 @@ I build and improve web experiences where **engineering, performance, and visual
 
 ## GitHub Journey
 
-![GitHub Profile Details](./profile-summary-card-output/github_dark/0-profile-details.svg)
+<img
+  src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+  alt="GitHub Profile Details"
+  width="100%"
+/>
 
 ## GitHub at a glance
 
