@@ -285,7 +285,9 @@ I build and improve web experiences where **engineering, performance, and visual
 
 *For professional work, I share public-facing links and summaries; confidential source code and internal systems are not published here.*
 
+## GitHub Journey
 
+![GitHub Profile Details](./profile-summary-card-output/github_dark/0-profile-details.svg)
 
 ## GitHub at a glance
 
