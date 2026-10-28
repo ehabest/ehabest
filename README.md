@@ -252,7 +252,7 @@ I build and improve web experiences where **engineering, performance, and visual
   
 </table>
 
-> 💡 **Icons:** Feel free to use my icons API `https://l.habyby.net/logo.php` tester `https://ihab.habyby.net/test.php` (Dedicated repo `https://github.com/ehabest/lhabyby-icons-api`)
+> 💡 **Icons:** Feel free to use my icons API <a href="https://l.habyby.net/logo">`L.habyby.net/logo`</a> tester <a href="https://ihab.habyby.net/test.php">`ihab.habyby.net/test.php`</a> (Dedicated repo `https://github.com/ehabest/lhabyby-icons-api`)
 
 ## Selected work
 
